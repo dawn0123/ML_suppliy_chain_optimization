@@ -41,8 +41,8 @@ Read more about distribution center here: https://en.wikipedia.org/wiki/Distribu
 
 #### Proposed DC when preferred locations are used.
 
-![Proposed DC when preferred locations are used](https://github.com/vikas9087/MachineLearning-OperationsResearch-SupplyChainOptimization/blob/master/Before%20Clustering.png)
+![Proposed DC when preferred locations are used](./Before%20Clustering.png)
 
 #### Proposed DC when all locations are used.
 
-![Proposed DC when preferred locations are used](https://github.com/vikas9087/MachineLearning-OperationsResearch-SupplyChainOptimization/blob/master/After%20Clustering.png)
+![Proposed DC when preferred locations are used](./After%20Clustering.png)
